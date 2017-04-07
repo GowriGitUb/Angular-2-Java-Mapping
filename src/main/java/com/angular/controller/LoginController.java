@@ -3,7 +3,7 @@
  */
 package com.angular.controller;
 /*
- * Gowri Controller
+ * Gowri Controller For Angular 2 CRUD.
  */
 import java.util.List;
 
